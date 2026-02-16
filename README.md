@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Detail-oriented Data Analyst with hands-on experience in Excel, SQL, Power Bi, and Python for data cleaning, transformation, visualization, and business reporting. Adept at turning raw datasets into actionable insights and supporting decision-making through dashboards, trend analyses, and KPI tracking.
+
 <!--
 **raphaelsimon9/raphaelsimon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
