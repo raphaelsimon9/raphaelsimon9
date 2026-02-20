@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! Raphael Simon Here! 👋
 
 I am a Detail-oriented Data and Business Intelligence Analyst with hands-on experience in Excel, SQL, Power Bi, and Python for data cleaning, transformation, visualization, and business reporting. Adept at turning raw datasets into actionable insights and supporting decision-making through dashboards, trend analyses, and KPI tracking. I am experienced in data collection, data cleaning, data analysis, data modelling, dashboards, and reports writing. I simply help your business uncover insights in large or small datasets.
 
